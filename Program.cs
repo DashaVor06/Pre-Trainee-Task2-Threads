@@ -1,4 +1,4 @@
-﻿using Task2_Threads;
+﻿using Task2_SyncAsync;
 
 var classSync = new Sync();
 var classAsync = new Async();

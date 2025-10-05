@@ -1,4 +1,4 @@
-﻿namespace Task2_Threads
+﻿namespace Task2_SyncAsync
 {
     public class Async
     {
