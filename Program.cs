@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Task2_Threads;
+
+var classSync = new Sync();
+var classAsync = new Async();
+
+classSync.TestSync();
+await classAsync.TestAsync();
+
+
+
+
